@@ -1,0 +1,4 @@
+The pdf file provided in this repo is a presentation slide deck that was presented to several technical and non-technical NLC staff across different departments. The goal of the presentation was to show how our staff could use this ArcGIS program to better understand
+their members. During this presentation, a demo on how to use the ArcGIS program was shown to display how staff could easily click on different cities on a interactice map to view their properties relative to other cities. The ArcGIS program and
+the source code were not available to show publicly, but this presentation should give a good insight into how it worked and was validated. Given more time on this project, I was planning to explore more sources for data and compare various clustering algorithms for 
+a complete, unbiased review on how we can cluster American cities into both existing and non-existing categories. 
